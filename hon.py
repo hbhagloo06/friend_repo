@@ -1,0 +1,1 @@
+print('kong=5')
